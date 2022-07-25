@@ -1,6 +1,6 @@
 # Fetchreward-Takehometest
 
-#Take Home Test for Data Analyst position at Fetch Rewards.
+Take Home Test for Data Analyst position at Fetch Rewards.
 
 Converting JSON to CSV.ipynb consists of the process involved in converting individual JSON files to well-formatted CSV files. The JSON data was converted into CSV files using Jupyter notebook, after which the CSV file was uploaded in DB Browser for SQLite.
 
